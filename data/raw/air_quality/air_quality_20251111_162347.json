@@ -1,0 +1,38 @@
+[
+  {
+    "city": "nairobi",
+    "latitude": -1.286389,
+    "longitude": 36.817223,
+    "timestamp": "2025-11-11T23:00",
+    "fetch_time": "2025-11-11T16:23:46.786514",
+    "pm25": 14.5,
+    "pm10": 15.7,
+    "ozone": 39.0,
+    "carbon_monoxide": 285.0,
+    "nitrogen_dioxide": 10.0,
+    "sulphur_dioxide": 3.2,
+    "uv_index": 0.0,
+    "aqi_pm25": 56.047210300429185,
+    "aqi_pm10": 14.537037037037038,
+    "aqi_overall": 56.047210300429185,
+    "health_category": "Moderate"
+  },
+  {
+    "city": "mombasa",
+    "latitude": -4.043477,
+    "longitude": 39.668206,
+    "timestamp": "2025-11-11T23:00",
+    "fetch_time": "2025-11-11T16:23:47.560969",
+    "pm25": 6.2,
+    "pm10": 8.6,
+    "ozone": 17.0,
+    "carbon_monoxide": 162.0,
+    "nitrogen_dioxide": 4.4,
+    "sulphur_dioxide": 3.1,
+    "uv_index": 0.0,
+    "aqi_pm25": 25.833333333333336,
+    "aqi_pm10": 7.962962962962962,
+    "aqi_overall": 25.833333333333336,
+    "health_category": "Good"
+  }
+]

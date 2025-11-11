@@ -1,0 +1,76 @@
+[
+  {
+    "city": "nairobi",
+    "latitude": -1.286389,
+    "longitude": 36.817223,
+    "timestamp": "2025-10-15T23:00",
+    "fetch_time": "2025-10-15T10:00:48.425368",
+    "readings": {
+      "PM2.5": {
+        "value": 13.6,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "PM10": {
+        "value": 14.2,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "O3": {
+        "value": 42.0,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "CO": {
+        "value": 229.0,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "NO2": {
+        "value": 12.9,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "SO2": {
+        "value": 4.5,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "Uv Index": {
+        "value": 0.0,
+        "unit": ""
+      }
+    }
+  },
+  {
+    "city": "mombasa",
+    "latitude": -4.043477,
+    "longitude": 39.668206,
+    "timestamp": "2025-10-15T23:00",
+    "fetch_time": "2025-10-15T10:00:49.293804",
+    "readings": {
+      "PM2.5": {
+        "value": 6.9,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "PM10": {
+        "value": 10.1,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "O3": {
+        "value": 48.0,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "CO": {
+        "value": 104.0,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "NO2": {
+        "value": 2.3,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "SO2": {
+        "value": 1.9,
+        "unit": "\u03bcg/m\u00b3"
+      },
+      "Uv Index": {
+        "value": 0.0,
+        "unit": ""
+      }
+    }
+  }
+]

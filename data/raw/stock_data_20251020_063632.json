@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "AAPL",
+    "fetch_date": "2025-10-19",
+    "o": null,
+    "h": null,
+    "l": null,
+    "c": null,
+    "v": null,
+    "vw": null,
+    "t": 1760832000000,
+    "n": 0,
+    "market_closed": true
+  },
+  {
+    "symbol": "GOOGL",
+    "fetch_date": "2025-10-19",
+    "o": null,
+    "h": null,
+    "l": null,
+    "c": null,
+    "v": null,
+    "vw": null,
+    "t": 1760832000000,
+    "n": 0,
+    "market_closed": true
+  },
+  {
+    "symbol": "MSFT",
+    "fetch_date": "2025-10-19",
+    "o": null,
+    "h": null,
+    "l": null,
+    "c": null,
+    "v": null,
+    "vw": null,
+    "t": 1760832000000,
+    "n": 0,
+    "market_closed": true
+  },
+  {
+    "symbol": "AMZN",
+    "fetch_date": "2025-10-19",
+    "o": null,
+    "h": null,
+    "l": null,
+    "c": null,
+    "v": null,
+    "vw": null,
+    "t": 1760832000000,
+    "n": 0,
+    "market_closed": true
+  },
+  {
+    "symbol": "TSLA",
+    "fetch_date": "2025-10-19",
+    "o": null,
+    "h": null,
+    "l": null,
+    "c": null,
+    "v": null,
+    "vw": null,
+    "t": 1760832000000,
+    "n": 0,
+    "market_closed": true
+  }
+]

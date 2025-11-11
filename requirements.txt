@@ -1,0 +1,10 @@
+google-api-python-client==2.108.0
+apache-airflow==3.0.0
+pyspark==3.5.0
+pandas==2.1.4
+psycopg2-binary==2.9.9
+SQLAlchemy <2.0
+py4j==0.10.9.7
+
+#Added
+requests==2.31.0
