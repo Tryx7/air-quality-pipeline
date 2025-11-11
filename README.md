@@ -1,3 +1,6 @@
+# Build the Pipeline
+docker compose build
+
 # Start pipeline
 docker compose up -d
 
