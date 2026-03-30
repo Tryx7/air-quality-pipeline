@@ -1,10 +1,12 @@
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s2dauzatg6wsnsd2t1v1.png)
 # Air Quality & Data Engineering Platform
 
 A comprehensive data engineering platform featuring real-time air quality monitoring, stock market analytics, and YouTube data processing with Apache Airflow, Spark, Kafka, and multiple database technologies.
 
 ## 🏗️ Architecture Overview
 
-```
+```plaintext
 Data Sources → Airflow ETL → Processing → Storage → Analytics
     ↓              ↓           ↓           ↓         ↓
  Air Quality     Spark       Kafka      PostgreSQL  Grafana
@@ -14,7 +16,7 @@ Data Sources → Airflow ETL → Processing → Storage → Analytics
 
 ## 📁 Project Structure
 
-```
+```yaml
 ├── dags/
 │   ├── air_quality_pipeline.py     # Hourly air quality ETL
 │   └── stock_market_dag.py         # Stock market ETL pipeline
@@ -202,21 +204,21 @@ The air quality pipeline monitors:
 ## 📊 Data Pipelines
 
 ### Air Quality Pipeline Flow
-```
+```plaintext
 Open-Meteo API → Data Extraction → AQI Calculation → PostgreSQL → Analytics
       ↓               ↓               ↓               ↓           ↓
   Real-time        Validation    Health Alerts    Storage    Grafana Dashboards
 ```
 
 ### Stock Market Pipeline Flow
-```
+```plaintext
 Polygon API → Data Extraction → Transformation → PostgreSQL → Analytics
      ↓              ↓               ↓              ↓           ↓
  Daily Data      Validation     Price Cleaning   Warehouse  Performance Metrics
 ```
 
 ### YouTube Analytics Flow
-```
+```plaintext
 YouTube API → Spark Processing → PostgreSQL → Analytics
      ↓             ↓               ↓           ↓
  Channel Data  Engagement Rates  Storage    View Patterns
@@ -366,3 +368,5 @@ This project is for educational and demonstration purposes. Adapt and extend for
 ---
 
 **Note**: Replace all placeholder credentials in `.env` with your actual API keys and database credentials before running the project. Ensure you have proper subscriptions for Polygon.io and YouTube Data API v3.
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/87ikr1aglagxx4c631o2.png)
